@@ -1,0 +1,11 @@
+body{background:palevioletred}
+h1{font-family:comic sans ms; background-
+color:red; text-align:center}
+
+.color{
+    width:350px;
+    height:50;
+    background:#90AFC5;
+    margin: 80px auto;
+    padding: 30px 20px;
+}
